@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.5, 17.25" name="BystronicData">
+  <DataContextMoniker Name="/BystronicDataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="03f8d85f-c2bb-49cf-ac1b-64ab79849b46" absoluteBounds="5, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BystronicDataDataContext/ProductList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="18caefd3-57c2-4698-8c28-1636355026da" absoluteBounds="5.015, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="889ffaf6-85af-4364-8db1-99d7c8dfc597" absoluteBounds="8.375, 2.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BystronicDataDataContext/Template" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a08a2d06-ec1a-4a1a-9be2-40ad020b5651" absoluteBounds="8.39, 2.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ac53e178-2249-423a-83bb-8e8523f80752" absoluteBounds="9.25, 4.75, 2, 2.3478011067708326">
+      <DataClassMoniker Name="/BystronicDataDataContext/CustomerList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c49b9e79-aa43-4356-81d3-2da3fd7a6e7f" absoluteBounds="9.265, 5.21, 1.9700000000000002, 1.7878011067708333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="77f9c6f7-6724-4599-9f7a-8c8a9510c0eb" absoluteBounds="6.875, 3.375, 2, 1.1939925130208327">
+      <DataClassMoniker Name="/BystronicDataDataContext/ProductTypeList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c9383582-1907-4acb-9b69-8d77954344e6" absoluteBounds="6.89, 3.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b41d1fc5-0509-4e38-afdb-7fdefc83d44c" absoluteBounds="5, 3.375, 2, 1.9631982421874996">
+      <DataClassMoniker Name="/BystronicDataDataContext/OrderItemList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="90b08455-ce0b-42b8-b5bf-77d9222378ad" absoluteBounds="5.015, 3.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6f0b9658-a127-4d7a-b672-c20d08a940c9" absoluteBounds="2.25, 3.625, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/BystronicDataDataContext/SalesPeopleList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="17b7fe25-174b-45a2-a546-42bf82a72ce4" absoluteBounds="2.265, 4.085, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ce1d439e-59b0-4a2f-b77c-3d856f236aca" absoluteBounds="3.875, 10.375, 2, 6.5784326171875023">
+      <DataClassMoniker Name="/BystronicDataDataContext/OrderList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ffcc62be-a84f-4713-8771-f7646524b395" absoluteBounds="3.89, 10.835, 1.9700000000000002, 6.0184326171875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
